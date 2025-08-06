@@ -1,4 +1,4 @@
-# Kris Renzo
+# Kris RenZo
 
 Security Researcher | Smart Contract Auditor | Protocol Analyst  
 Building at the intersection of systems design, incentives, and automated vulnerability discovery.
