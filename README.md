@@ -35,18 +35,17 @@ Crafting high-signal security writeups and research insights for the web3 ecosys
 **High Severity Findings**: 32  
 **Medium Severity Findings**: 18  
 
-| Contest            | Date     | Platform   | Languages         | CodeSize | Result    |
+| Contest            | Date     | Platform   | Category         | CodeSize | Result    |
 |--------------------|----------|------------|--------------------|----------|-----------|
-| Alchemix-v3        | May '25  | Cantina    | Solidity           | 1,688    | 6 / 902   |
-| Liquity-bold       | Mar '25  | Cantina    | Solidity           | 6,535    | 7 / 822   |
-| Yieldoor           | Feb '25  | Sherlock   | Solidity           | 1,204    | 12 / 100+ |
-| Liquidity Mgmt     | Feb '25  | CodeHawks  | Solidity           | 1,910    | 48 / 100+ |
-| Zksync Era         | Oct '24  | CodeHawks  | Solidity, Yul      | 15,741   | 10 / 100+ |
-| Liquid Staking     | Sep '24  | CodeHawks  | Solidity           | 2,530    | 2 / 100+  |
-| Tadle              | Aug '24  | CodeHawks  | Solidity           | 1,229    | 18 / 300+ |
-| Zaros Part 1       | Jul '24  | CodeHawks  | Solidity           | 2,878    | 20 / 150+ |
-| Elfi               | May '24  | Sherlock   | Solidity           | 5,814    | 7 / 200+  |
-| The Standard       | Dec '23  | CodeHawks  | Solidity           | 609      | 32 / 200+ |
+| Alchemix-v3        | May '25  | Cantina    | Lending           | 1,688    | 6th   |
+| Liquity-bold       | Mar '25  | Cantina    | Stablecoin           | 6,535    | 7th  |
+| Yieldoor           | Feb '25  | Sherlock   | Yield aggregator           | 1,204    | 12th |
+| Zksync Era         | Oct '24  | CodeHawks  | Infra (Layer 2)     | 15,741   | 10th |
+| Liquid Staking     | Sep '24  | CodeHawks  | Staking           | 2,530    | 2nd  |
+| Tadle              | Aug '24  | CodeHawks  | Derivatives Market           | 1,229    | 18th |
+| Zaros Part 1       | Jul '24  | CodeHawks  | Perpetual           | 2,878    | 20th |
+| Elfi               | May '24  | Sherlock   | Perpetual           | 5,814    | 7th |
+| The Standard       | Dec '23  | CodeHawks  | Stablecoin           | 609      | 32nd |
 
 ---
 
