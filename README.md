@@ -17,10 +17,6 @@ Building at the intersection of systems design, incentives design, and automated
 *Audix — Remote | June 2024 – Present*  
 Architecting a smart contract auditing assistant that automates fuzzing, heuristic and invariant discovery, enabling scalable and deep security analysis.
 
-**Technical Writer**  
-*Sherlock — Remote | August 2025 – Present*  
-Crafting high-signal security writeups and research insights for the web3 ecosystem.
-
 ---
 
 ### 📚 Publications
