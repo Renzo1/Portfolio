@@ -32,7 +32,7 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 **Medium Severity Findings**: 18  
 
 | Contest            | Date     | Platform   | Category         | CodeSize | Platform-Language | Result    |
-|--------------------|----------|------------|--------------------|----------|-----------|
+|--------------------|----------|------------|--------------------|----------|-----------|----------|
 | Solayer-bridge        | Aug '25  | Cantina    | L2 & Cross-chain           | 2071    | Solana-Rust | 9th   |
 | Alchemix-v3        | May '25  | Cantina    | Lending           | 1,688    | EVM-Solidity | 6th   |
 | Liquity-bold       | Mar '25  | Cantina    | Stablecoin           | 6,535    | EVM-Solidity |7th  |
