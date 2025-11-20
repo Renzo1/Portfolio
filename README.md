@@ -40,7 +40,7 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 | Liquity-bold       | Mar '25  | Cantina    | Stablecoin           | 6,535    | EVM-Solidity |7th  |
 | Yieldoor           | Feb '25  | Sherlock   | Yield aggregator           | 1,204    | EVM-Solidity |12th |
 | Zksync Era         | Oct '24  | CodeHawks  | Infra (Layer 2)     | 15,741   | EVM-Solidity, Yul |10th |
-| Liquid Staking     | Sep '24  | CodeHawks  | Staking           | 2,530    | EVM-Solidity | 2nd  |
+| Liquid Staking     | Sep '24  | CodeHawks  | Staking           | 2,530    | EVM-Solidity | 2nd 🥈 |
 | Tadle              | Aug '24  | CodeHawks  | Derivatives Market           | 1,229    | EVM-Solidity |18th |
 | Zaros Part 1       | Jul '24  | CodeHawks  | Perpetual           | 2,878    | EVM-Solidity | 20th |
 | Elfi               | May '24  | Sherlock   | Perpetual           | 5,814    | EVM-Solidity | 7th |
