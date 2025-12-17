@@ -33,7 +33,7 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 
 | Contest            | Date     | Platform   | Category         | CodeSize | Platform-Language | Result    |
 |--------------------|----------|------------|--------------------|----------|-----------|----------|
-| Megapot | Nov '25  | Code4rena    | Jackpot Market   | 1709    | EVM-Solidity | 5th   |
+| Megapot | Nov '25  | Code4rena    | Jackpot Market   | 1709    | EVM-Solidity | 5th  |
 | Index Fun Order Book | Oct '25  | Sherlock    | Order Book & Prediction Market   | 942    | EVM-Solidity | 8th   |
 | Summer.fi - governance v2 | Sep '25  | Sherlock    | Governance & Cross-chain | 1532    | EVM-Solidity | 8th   |
 | Solayer-bridge        | Aug '25  | Cantina    | L2 & Cross-chain           | 2071    | Solana-Rust | 9th   |
