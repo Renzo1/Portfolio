@@ -28,8 +28,8 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 
 ### ⚔️ Public Contests
 
-**High Severity Findings**: 33  
-**Medium Severity Findings**: 21  
+**High Severity Findings**: 44  
+**Medium Severity Findings**: 28  
 
 | Contest            | Date     | Platform   | Category         | CodeSize | Platform-Language | Result    |
 |--------------------|----------|------------|--------------------|----------|-----------|----------|
