@@ -27,6 +27,8 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 ---
 
 ### ⚔️ Public Contests
+[Sherlock Profile](https://audits.sherlock.xyz/watson/krisrenzo)
+[Cantina Profile](https://cantina.xyz/u/KrisRenZo)
 
 **High Severity Findings**: 44  
 **Medium Severity Findings**: 28  
@@ -47,6 +49,8 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 | Zaros Part 1       | Jul '24  | CodeHawks  | Perpetual           | 2,878    | EVM-Solidity | 20th |
 | Elfi               | May '24  | Sherlock   | Perpetual           | 5,814    | EVM-Solidity | 7th |
 | The Standard       | Dec '23  | CodeHawks  | Stablecoin           | 609      | EVM-Solidity | 32nd |
+
+
 
 ---
 
