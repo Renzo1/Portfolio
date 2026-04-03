@@ -26,10 +26,10 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 
 ---
 ### 🛡️ Private Audit
-| Project            | Date     | Team   | 
-|--------------------|----------|------------|
-| Symbiotic     | Dec '25  | Bail Security  | 
-| VaultEdge | Feb/March '26  | Bail Security    | 
+| Project            | Date     | Team   | Category |
+|--------------------|----------|------------|------------|
+| Symbiotic     | Dec '25  | Bail Security  | Staking |
+| VaultEdge | Feb/March '26  | Bail Security    | CDP (Liquity Fork) |
 
 
 ### ⚔️ Public Contests
