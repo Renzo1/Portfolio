@@ -25,6 +25,12 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 - [Solo Bug Analysis](https://x.com/KrisRenzo/status/1935275989417816273)
 
 ---
+### 🛡️ Private Audit
+| Project            | Date     | Team   | 
+|--------------------|----------|------------|
+| Symbiotic     | Dec '25  | Bail Security  | 
+| VaultEdge | Feb/March '26  | Bail Security    | 
+
 
 ### ⚔️ Public Contests
 [Sherlock Profile](https://audits.sherlock.xyz/watson/krisrenzo)
