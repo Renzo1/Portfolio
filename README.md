@@ -25,7 +25,7 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 - [Solo Bug Analysis](https://x.com/KrisRenzo/status/1935275989417816273)
 
 ---
-### 🛡️ Private Audit
+### 🛡️ Private Audits
 | Project            | Date     | Team   | Category |
 |--------------------|----------|------------|------------|
 | Symbiotic     | Dec '25  | Bail Security  | Staking |
