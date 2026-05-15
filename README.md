@@ -30,7 +30,7 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 |--------------------|----------|------------|------------|
 | Symbiotic     | Dec '25  | Bail Security  | Staking |
 | VaultEdge | March '26  | Bail Security    | CDP (Liquity Fork) |
-
+| 0x Safeguard | April '26  | Bail Security    | Multisig governance |
 
 ### ⚔️ Public Contests
 [Sherlock Profile](https://audits.sherlock.xyz/watson/krisrenzo)
