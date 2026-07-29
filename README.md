@@ -35,6 +35,9 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 | Octant V2 | May '26  | Bail Security    | Quadratic-funding voting |
 | ListaDao SlisXAUE | May '26  | Bail Security    | Staking and Yield Management |
 | Symbiotic | June '26  | Bail Security    | Staking |
+| Symbiotic (Adapters) | July '26  | Bail Security    | Staking & DeFi Integrations|
+| Symbiotic (Adapters II) | July '26  | Bail Security    | Staking & DeFi Integrations |
+| LayerV (Adapters) | August '26  | Bail Security    | Cross-chain and Options Market |
 
 ### ⚔️ Public Contests
 [Sherlock Profile](https://audits.sherlock.xyz/watson/krisrenzo)
