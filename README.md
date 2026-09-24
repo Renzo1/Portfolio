@@ -38,6 +38,9 @@ Architecting a smart contract auditing assistant that automates fuzzing, heurist
 | Symbiotic (Adapters) | July '26  | Bail Security    | Staking & DeFi Integrations|
 | Symbiotic (Adapters II) | July '26  | Bail Security    | Staking & DeFi Integrations |
 | LayerV (Adapters) | August '26  | Bail Security    | Cross-chain and Options Market |
+| Ox Settler | September '26  | Bail Security    | DEX aggregator |
+| Lista | September '26  | Bail Security    | Liquid Staking |
+| Fenix (Nest  Algebra) | September '26  | Bail Security    | DEX |
 
 ### ⚔️ Public Contests
 [Sherlock Profile](https://audits.sherlock.xyz/watson/krisrenzo)
